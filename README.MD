@@ -1,6 +1,8 @@
 
 # ```lets_be_rational```
 
+Upgraded to python-3.x
+
 A Python SWIG wrapper for the functions in "Let's Be Rational" by Peter Jäckel.
 
 ## About "Let's be Rational":
